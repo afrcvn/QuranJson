@@ -1,0 +1,458 @@
+[
+    {
+        "id": 1,
+        "name": "Daɲɛ fɔlɔ"
+    },
+    {
+        "id": 2,
+        "name": "Misi in"
+    },
+    {
+        "id": 3,
+        "name": "Imran ka denbaya"
+    },
+    {
+        "id": 4,
+        "name": "Musow"
+    },
+    {
+        "id": 5,
+        "name": "Tabali min bɛ dilan"
+    },
+    {
+        "id": 6,
+        "name": "Misiw"
+    },
+    {
+        "id": 7,
+        "name": "Al Araf ye"
+    },
+    {
+        "id": 8,
+        "name": "O fɛnw cɛlafɛnw"
+    },
+    {
+        "id": 9,
+        "name": "Nimisali"
+    },
+    {
+        "id": 10,
+        "name": "Jonasi ye"
+    },
+    {
+        "id": 11,
+        "name": "HUD ye"
+    },
+    {
+        "id": 12,
+        "name": "josefu ye"
+    },
+    {
+        "id": 13,
+        "name": "Sanpɛrɛnkan"
+    },
+    {
+        "id": 14,
+        "name": "Ibrahima ye"
+    },
+    {
+        "id": 15,
+        "name": "Al-Hijr ye"
+    },
+    {
+        "id": 16,
+        "name": "A bɛ sumanw"
+    },
+    {
+        "id": 17,
+        "name": "Sufɛ Taama"
+    },
+    {
+        "id": 18,
+        "name": "O kuluba in"
+    },
+    {
+        "id": 19,
+        "name": "Furulen"
+    },
+    {
+        "id": 20,
+        "name": "Ta Ha"
+    },
+    {
+        "id": 21,
+        "name": "Kiraw tun bɛ yen"
+    },
+    {
+        "id": 22,
+        "name": "A ka hɛrɛma"
+    },
+    {
+        "id": 23,
+        "name": "Dannabaaw ye"
+    },
+    {
+        "id": 24,
+        "name": "Yeelen min bɛ yen"
+    },
+    {
+        "id": 25,
+        "name": "Faamuyali"
+    },
+    {
+        "id": 26,
+        "name": "Poyikɛlaw"
+    },
+    {
+        "id": 27,
+        "name": "A ye wuluw ye"
+    },
+    {
+        "id": 28,
+        "name": "Maana in"
+    },
+    {
+        "id": 29,
+        "name": "o ye wuluwulu ye"
+    },
+    {
+        "id": 30,
+        "name": "Romɛkaw ka mɔgɔw"
+    },
+    {
+        "id": 31,
+        "name": "Luqman ye"
+    },
+    {
+        "id": 32,
+        "name": "Sujuduba min bɛ kɛ"
+    },
+    {
+        "id": 33,
+        "name": "A jɛɲɔgɔnw"
+    },
+    {
+        "id": 34,
+        "name": "Saba ye"
+    },
+    {
+        "id": 35,
+        "name": "Dabaga de ye"
+    },
+    {
+        "id": 36,
+        "name": "Ya Sin"
+    },
+    {
+        "id": 37,
+        "name": "jirisunw"
+    },
+    {
+        "id": 38,
+        "name": "Dusukasiko don"
+    },
+    {
+        "id": 39,
+        "name": "Jɛkuluw"
+    },
+    {
+        "id": 40,
+        "name": "yafabagatɔ"
+    },
+    {
+        "id": 41,
+        "name": "Vɛrise minnu ɲɛfɔlen don kosɛbɛ"
+    },
+    {
+        "id": 42,
+        "name": "Lajɛ kɛli"
+    },
+    {
+        "id": 43,
+        "name": "finidoncogo"
+    },
+    {
+        "id": 44,
+        "name": "Sisi"
+    },
+    {
+        "id": 45,
+        "name": "A kunbiri gwan"
+    },
+    {
+        "id": 46,
+        "name": "Al-Ahqaf ye"
+    },
+    {
+        "id": 47,
+        "name": "Mohammad ye"
+    },
+    {
+        "id": 48,
+        "name": "Se sɔrɔli min kɛra ni mankanba ye"
+    },
+    {
+        "id": 49,
+        "name": "Apartmanw bɛ yen"
+    },
+    {
+        "id": 50,
+        "name": "Qaf ye"
+    },
+    {
+        "id": 51,
+        "name": "minnu bɛ mɔgɔw jɛnsɛn"
+    },
+    {
+        "id": 52,
+        "name": "At-Tur ye"
+    },
+    {
+        "id": 53,
+        "name": "Dolow ye"
+    },
+    {
+        "id": 54,
+        "name": "Kalo bɛ yen"
+    },
+    {
+        "id": 55,
+        "name": "Hinɛbagatɔ bɛɛ"
+    },
+    {
+        "id": 56,
+        "name": "O ko kɛlen"
+    },
+    {
+        "id": 57,
+        "name": "Nɛgɛ in"
+    },
+    {
+        "id": 58,
+        "name": "Baro kɛra"
+    },
+    {
+        "id": 59,
+        "name": "O bɔli"
+    },
+    {
+        "id": 60,
+        "name": "A sɛgɛsɛgɛra"
+    },
+    {
+        "id": 61,
+        "name": "Layidu talen"
+    },
+    {
+        "id": 62,
+        "name": "Juma"
+    },
+    {
+        "id": 63,
+        "name": "Filankafow"
+    },
+    {
+        "id": 64,
+        "name": "O bɔnɛba min kɛra"
+    },
+    {
+        "id": 65,
+        "name": "Furucɛ ni furumuso ka furu sa"
+    },
+    {
+        "id": 66,
+        "name": "O dankarili kɛra"
+    },
+    {
+        "id": 67,
+        "name": "Masakɛ ka mɔgɔw"
+    },
+    {
+        "id": 68,
+        "name": "Si"
+    },
+    {
+        "id": 69,
+        "name": "Min bɛ tiɲɛ jira"
+    },
+    {
+        "id": 70,
+        "name": "Yɛlɛn siraw"
+    },
+    {
+        "id": 71,
+        "name": "Nuhun"
+    },
+    {
+        "id": 72,
+        "name": "Djinnw ye"
+    },
+    {
+        "id": 73,
+        "name": "A bɛ siri"
+    },
+    {
+        "id": 74,
+        "name": "A ye fini don a la"
+    },
+    {
+        "id": 75,
+        "name": "Su kununni"
+    },
+    {
+        "id": 76,
+        "name": "Cɛ in"
+    },
+    {
+        "id": 77,
+        "name": "Cidenw ye"
+    },
+    {
+        "id": 78,
+        "name": "A kura"
+    },
+    {
+        "id": 79,
+        "name": "Mɛlɛkɛ minnu bɛ niw minɛ"
+    },
+    {
+        "id": 80,
+        "name": "A ye a ɲɛda biri"
+    },
+    {
+        "id": 81,
+        "name": "Dibi donna"
+    },
+    {
+        "id": 82,
+        "name": "Ka kari"
+    },
+    {
+        "id": 83,
+        "name": "Namarakɛlaw"
+    },
+    {
+        "id": 84,
+        "name": "A ɲɛjibɔ ye"
+    },
+    {
+        "id": 85,
+        "name": "Dolow kuluw"
+    },
+    {
+        "id": 86,
+        "name": "Sufɛla dolow"
+    },
+    {
+        "id": 87,
+        "name": "Kɔrɔtalenba"
+    },
+    {
+        "id": 88,
+        "name": "A ka enveloppe"
+    },
+    {
+        "id": 89,
+        "name": "Dugukolonɔn"
+    },
+    {
+        "id": 90,
+        "name": "Dugu in"
+    },
+    {
+        "id": 91,
+        "name": "Tile ye"
+    },
+    {
+        "id": 92,
+        "name": "Su fɛ"
+    },
+    {
+        "id": 93,
+        "name": "Don min bɛ wuli"
+    },
+    {
+        "id": 94,
+        "name": "Dakabanɔgɔ"
+    },
+    {
+        "id": 95,
+        "name": "Torosun in"
+    },
+    {
+        "id": 96,
+        "name": "Adhesion (nɔrɔli)."
+    },
+    {
+        "id": 97,
+        "name": "Dakan"
+    },
+    {
+        "id": 98,
+        "name": "O dalilu"
+    },
+    {
+        "id": 99,
+        "name": "Yɛrɛyɛrɛli"
+    },
+    {
+        "id": 100,
+        "name": "Kuriyɛriw"
+    },
+    {
+        "id": 101,
+        "name": "O pankurun binna"
+    },
+    {
+        "id": 102,
+        "name": "Nafolo sɔrɔli boli"
+    },
+    {
+        "id": 103,
+        "name": "Waati"
+    },
+    {
+        "id": 104,
+        "name": "Mɔgɔ tɔgɔjugu fɔbagaw"
+    },
+    {
+        "id": 105,
+        "name": "waraba in"
+    },
+    {
+        "id": 106,
+        "name": "Kurayikan"
+    },
+    {
+        "id": 107,
+        "name": "Minɛn min bɛ kɛ"
+    },
+    {
+        "id": 108,
+        "name": "Caman"
+    },
+    {
+        "id": 109,
+        "name": "Kantigiw"
+    },
+    {
+        "id": 110,
+        "name": "Ka dɛmɛ don"
+    },
+    {
+        "id": 111,
+        "name": "Fibrew (Fibrew)."
+    },
+    {
+        "id": 112,
+        "name": "Ala kelen-kelen bɛɛ ka diinɛ saniyalen"
+    },
+    {
+        "id": 113,
+        "name": "Dugujɛda karilen"
+    },
+    {
+        "id": 114,
+        "name": "Mogow"
+    }
+]
