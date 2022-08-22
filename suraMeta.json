@@ -1,0 +1,914 @@
+[
+    {
+        "name": "سورة الفاتحة",
+        "name_fr": "Prologue",
+        "name_en": "The Opening",
+        "phonetic": "Al-Faatiha",
+        "place": "Mecquoise",
+        "nbAya": 7
+    },
+    {
+        "name": "سورة البقرة",
+        "name_fr": "La vache",
+        "name_en": "The Cow",
+        "phonetic": "Al-Baqara",
+        "place": "Medinois",
+        "nbAya": 286
+    },
+    {
+        "name": "سورة آل عمران",
+        "name_fr": "La famille d'Imran",
+        "name_en": "The Family of Imraan",
+        "phonetic": "Aal-i-Imraan",
+        "place": "Medinois",
+        "nbAya": 200
+    },
+    {
+        "name": "سورة النساء",
+        "name_fr": "Les femmes",
+        "name_en": "The Women",
+        "phonetic": "An-Nisaa",
+        "place": "Medinois",
+        "nbAya": 176
+    },
+    {
+        "name": "سورة المائدة",
+        "name_fr": "La table servie",
+        "name_en": "The Table",
+        "phonetic": "Al-Maaida",
+        "place": "Medinois",
+        "nbAya": 120
+    },
+    {
+        "name": "سورة الأنعام",
+        "name_fr": "Les bestiaux",
+        "name_en": "The Cattle",
+        "phonetic": "Al-An'aam",
+        "place": "Mecquoise",
+        "nbAya": 165
+    },
+    {
+        "name": "سورة الأعراف",
+        "name_fr": "Al-Araf",
+        "name_en": "The Heights",
+        "phonetic": "Al-A'raaf",
+        "place": "Mecquoise",
+        "nbAya": 206
+    },
+    {
+        "name": "سورة الأنفال",
+        "name_fr": "Le butin",
+        "name_en": "The Spoils of War",
+        "phonetic": "Al-Anfaal",
+        "place": "Medinois",
+        "nbAya": 75
+    },
+    {
+        "name": "سورة التوبة",
+        "name_fr": "Le repentir",
+        "name_en": "The Repentance",
+        "phonetic": "At-Tawba",
+        "place": "Medinois",
+        "nbAya": 129
+    },
+    {
+        "name": "سورة يونس",
+        "name_fr": "Jonas",
+        "name_en": "Jonas",
+        "phonetic": "Yunus",
+        "place": "Mecquoise",
+        "nbAya": 109
+    },
+    {
+        "name": "سورة هود",
+        "name_fr": "Hud",
+        "name_en": "Hud",
+        "phonetic": "Hud",
+        "place": "Mecquoise",
+        "nbAya": 123
+    },
+    {
+        "name": "سورة يوسف",
+        "name_fr": "Joseph",
+        "name_en": "Joseph",
+        "phonetic": "Yusuf",
+        "place": "Mecquoise",
+        "nbAya": 111
+    },
+    {
+        "name": "سورة الرعد",
+        "name_fr": "Le tonnerre",
+        "name_en": "The Thunder",
+        "phonetic": "Ar-Ra'd",
+        "place": "Medinois",
+        "nbAya": 43
+    },
+    {
+        "name": "سورة ابراهيم",
+        "name_fr": "Abraham",
+        "name_en": "Abraham",
+        "phonetic": "Ibrahim",
+        "place": "Mecquoise",
+        "nbAya": 52
+    },
+    {
+        "name": "سورة الحجر",
+        "name_fr": "Al-Hijr",
+        "name_en": "The Rock",
+        "phonetic": "Al-Hijr",
+        "place": "Mecquoise",
+        "nbAya": 99
+    },
+    {
+        "name": "سورة النحل",
+        "name_fr": "Les abeilles",
+        "name_en": "The Bee",
+        "phonetic": "An-Nahl",
+        "place": "Mecquoise",
+        "nbAya": 128
+    },
+    {
+        "name": "سورة الإسراء",
+        "name_fr": "Le voyage nocturne",
+        "name_en": "The Night Journey",
+        "phonetic": "Al-Israa",
+        "place": "Mecquoise",
+        "nbAya": 111
+    },
+    {
+        "name": "سورة الكهف",
+        "name_fr": "La caverne",
+        "name_en": "The Cave",
+        "phonetic": "Al-Kahf",
+        "place": "Mecquoise",
+        "nbAya": 110
+    },
+    {
+        "name": "سورة مريم",
+        "name_fr": "Marie",
+        "name_en": "Mary",
+        "phonetic": "Maryam",
+        "place": "Mecquoise",
+        "nbAya": 98
+    },
+    {
+        "name": "سورة طه",
+        "name_fr": "Ta-Ha",
+        "name_en": "Taa-Haa",
+        "phonetic": "Taa-Haa",
+        "place": "Mecquoise",
+        "nbAya": 135
+    },
+    {
+        "name": "سورة الأنبياء",
+        "name_fr": "Les prophètes",
+        "name_en": "The Prophets",
+        "phonetic": "Al-Anbiyaa",
+        "place": "Mecquoise",
+        "nbAya": 112
+    },
+    {
+        "name": "سورة الحج",
+        "name_fr": "Le pélerinage",
+        "name_en": "The Pilgrimage",
+        "phonetic": "Al-Hajj",
+        "place": "Medinois",
+        "nbAya": 78
+    },
+    {
+        "name": "سورة المؤمنون",
+        "name_fr": "Les croyants",
+        "name_en": "The Believers",
+        "phonetic": "Al-Muminoon",
+        "place": "Mecquoise",
+        "nbAya": 118
+    },
+    {
+        "name": "سورة النور",
+        "name_fr": "La lumière",
+        "name_en": "The Light",
+        "phonetic": "An-Noor",
+        "place": "Medinois",
+        "nbAya": 64
+    },
+    {
+        "name": "سورة الفرقان",
+        "name_fr": "Le discernement",
+        "name_en": "The Criterion",
+        "phonetic": "Al-Furqaan",
+        "place": "Mecquoise",
+        "nbAya": 77
+    },
+    {
+        "name": "سورة الشعراء",
+        "name_fr": "Les poètes",
+        "name_en": "The Poets",
+        "phonetic": "Ash-Shu'araa",
+        "place": "Mecquoise",
+        "nbAya": 227
+    },
+    {
+        "name": "سورة النمل",
+        "name_fr": "Les fourmis",
+        "name_en": "The Ant",
+        "phonetic": "An-Naml",
+        "place": "Mecquoise",
+        "nbAya": 93
+    },
+    {
+        "name": "سورة القصص",
+        "name_fr": "Le récit",
+        "name_en": "The Stories",
+        "phonetic": "Al-Qasas",
+        "place": "Mecquoise",
+        "nbAya": 88
+    },
+    {
+        "name": "سورة العنكبوت",
+        "name_fr": "L'araignée",
+        "name_en": "The Spider",
+        "phonetic": "Al-Ankaboot",
+        "place": "Mecquoise",
+        "nbAya": 69
+    },
+    {
+        "name": "سورة الروم",
+        "name_fr": "Les romains",
+        "name_en": "The Romans",
+        "phonetic": "Ar-Room",
+        "place": "Mecquoise",
+        "nbAya": 60
+    },
+    {
+        "name": "سورة لقمان",
+        "name_fr": "Luqman",
+        "name_en": "Luqman",
+        "phonetic": "Luqman",
+        "place": "Mecquoise",
+        "nbAya": 34
+    },
+    {
+        "name": "سورة السجدة",
+        "name_fr": "La prosternation",
+        "name_en": "The Prostration",
+        "phonetic": "As-Sajda",
+        "place": "Mecquoise",
+        "nbAya": 30
+    },
+    {
+        "name": "سورة الأحزاب",
+        "name_fr": "Les coalisés",
+        "name_en": "The Clans",
+        "phonetic": "Al-Ahzaab",
+        "place": "Medinois",
+        "nbAya": 73
+    },
+    {
+        "name": "سورة سبإ",
+        "name_fr": "Saba",
+        "name_en": "Sheba",
+        "phonetic": "Saba",
+        "place": "Mecquoise",
+        "nbAya": 54
+    },
+    {
+        "name": "سورة فاطر",
+        "name_fr": "Le Créateur",
+        "name_en": "The Originator",
+        "phonetic": "Faatir",
+        "place": "Mecquoise",
+        "nbAya": 45
+    },
+    {
+        "name": "سورة يس",
+        "name_fr": "Ya-Sin",
+        "name_en": "Yaseen",
+        "phonetic": "Yaseen",
+        "place": "Mecquoise",
+        "nbAya": 83
+    },
+    {
+        "name": "سورة الصافات",
+        "name_fr": "Les rangés",
+        "name_en": "Those drawn up in Ranks",
+        "phonetic": "As-Saaffaat",
+        "place": "Mecquoise",
+        "nbAya": 182
+    },
+    {
+        "name": "سورة ص",
+        "name_fr": "Sad",
+        "name_en": "The letter Saad",
+        "phonetic": "Saad",
+        "place": "Mecquoise",
+        "nbAya": 88
+    },
+    {
+        "name": "سورة الزمر",
+        "name_fr": "Les groupes",
+        "name_en": "The Groups",
+        "phonetic": "Az-Zumar",
+        "place": "Mecquoise",
+        "nbAya": 75
+    },
+    {
+        "name": "سورة غافر",
+        "name_fr": "Le pardonneur",
+        "name_en": "The Forgiver",
+        "phonetic": "Ghafir",
+        "place": "Mecquoise",
+        "nbAya": 85
+    },
+    {
+        "name": "سورة فصلت",
+        "name_fr": "Les versets détaillés",
+        "name_en": "Explained in detail",
+        "phonetic": "Fussilat",
+        "place": "Mecquoise",
+        "nbAya": 54
+    },
+    {
+        "name": "سورة الشورى",
+        "name_fr": "La consultation",
+        "name_en": "Consultation",
+        "phonetic": "Ash-Shura",
+        "place": "Mecquoise",
+        "nbAya": 53
+    },
+    {
+        "name": "سورة الزخرف",
+        "name_fr": "L'ornement",
+        "name_en": "Ornaments of gold",
+        "phonetic": "Az-Zukhruf",
+        "place": "Mecquoise",
+        "nbAya": 89
+    },
+    {
+        "name": "سورة الدخان",
+        "name_fr": "La fumée",
+        "name_en": "The Smoke",
+        "phonetic": "Ad-Dukhaan",
+        "place": "Mecquoise",
+        "nbAya": 59
+    },
+    {
+        "name": "سورة الجاثية",
+        "name_fr": "L'agenouillée",
+        "name_en": "Crouching",
+        "phonetic": "Al-Jaathiya",
+        "place": "Mecquoise",
+        "nbAya": 37
+    },
+    {
+        "name": "سورة الأحقاف",
+        "name_fr": "Al-Ahqaf",
+        "name_en": "The Dunes",
+        "phonetic": "Al-Ahqaf",
+        "place": "Mecquoise",
+        "nbAya": 35
+    },
+    {
+        "name": "سورة محمد",
+        "name_fr": "Muhammad",
+        "name_en": "Muhammad",
+        "phonetic": "Muhammad",
+        "place": "Medinois",
+        "nbAya": 38
+    },
+    {
+        "name": "سورة الفتح",
+        "name_fr": "La victoire éclatante",
+        "name_en": "The Victory",
+        "phonetic": "Al-Fath",
+        "place": "Medinois",
+        "nbAya": 29
+    },
+    {
+        "name": "سورة الحجرات",
+        "name_fr": "Les appartements",
+        "name_en": "The Inner Apartments",
+        "phonetic": "Al-Hujuraat",
+        "place": "Medinois",
+        "nbAya": 18
+    },
+    {
+        "name": "سورة ق",
+        "name_fr": "Qaf",
+        "name_en": "The letter Qaaf",
+        "phonetic": "Qaaf",
+        "place": "Mecquoise",
+        "nbAya": 45
+    },
+    {
+        "name": "سورة الذاريات",
+        "name_fr": "Qui éparpillent",
+        "name_en": "The Winnowing Winds",
+        "phonetic": "Adh-Dhaariyat",
+        "place": "Mecquoise",
+        "nbAya": 60
+    },
+    {
+        "name": "سورة الطور",
+        "name_fr": "At-Tur",
+        "name_en": "The Mount",
+        "phonetic": "At-Tur",
+        "place": "Mecquoise",
+        "nbAya": 49
+    },
+    {
+        "name": "سورة النجم",
+        "name_fr": "L'étoile",
+        "name_en": "The Star",
+        "phonetic": "An-Najm",
+        "place": "Mecquoise",
+        "nbAya": 62
+    },
+    {
+        "name": "سورة القمر",
+        "name_fr": "La lune",
+        "name_en": "The Moon",
+        "phonetic": "Al-Qamar",
+        "place": "Mecquoise",
+        "nbAya": 55
+    },
+    {
+        "name": "سورة الرحمن",
+        "name_fr": "Le Tout Miséricordieux",
+        "name_en": "The Beneficent",
+        "phonetic": "Ar-Rahmaan",
+        "place": "Medinois",
+        "nbAya": 78
+    },
+    {
+        "name": "سورة الواقعة",
+        "name_fr": "L'événement",
+        "name_en": "The Inevitable",
+        "phonetic": "Al-Waaqia",
+        "place": "Mecquoise",
+        "nbAya": 96
+    },
+    {
+        "name": "سورة الحديد",
+        "name_fr": "Le fer",
+        "name_en": "The Iron",
+        "phonetic": "Al-Hadid",
+        "place": "Medinois",
+        "nbAya": 29
+    },
+    {
+        "name": "سورة المجادلة",
+        "name_fr": "La discussion",
+        "name_en": "The Pleading Woman",
+        "phonetic": "Al-Mujaadila",
+        "place": "Medinois",
+        "nbAya": 22
+    },
+    {
+        "name": "سورة الحشر",
+        "name_fr": "L'exode",
+        "name_en": "The Exile",
+        "phonetic": "Al-Hashr",
+        "place": "Medinois",
+        "nbAya": 24
+    },
+    {
+        "name": "سورة الممتحنة",
+        "name_fr": "L'éprouvée",
+        "name_en": "She that is to be examined",
+        "phonetic": "Al-Mumtahana",
+        "place": "Medinois",
+        "nbAya": 13
+    },
+    {
+        "name": "سورة الصف",
+        "name_fr": "Le rang",
+        "name_en": "The Ranks",
+        "phonetic": "As-Saff",
+        "place": "Medinois",
+        "nbAya": 14
+    },
+    {
+        "name": "سورة الجمعة",
+        "name_fr": "Le vendredi",
+        "name_en": "Friday",
+        "phonetic": "Al-Jumu'a",
+        "place": "Medinois",
+        "nbAya": 11
+    },
+    {
+        "name": "سورة المنافقون",
+        "name_fr": "Les hypocrites",
+        "name_en": "The Hypocrites",
+        "phonetic": "Al-Munaafiqoon",
+        "place": "Medinois",
+        "nbAya": 11
+    },
+    {
+        "name": "سورة التغابن",
+        "name_fr": "La grande perte",
+        "name_en": "Mutual Disillusion",
+        "phonetic": "At-Taghaabun",
+        "place": "Medinois",
+        "nbAya": 18
+    },
+    {
+        "name": "سورة الطلاق",
+        "name_fr": "Le divorce",
+        "name_en": "Divorce",
+        "phonetic": "At-Talaaq",
+        "place": "Medinois",
+        "nbAya": 12
+    },
+    {
+        "name": "سورة التحريم",
+        "name_fr": "L'interdiction",
+        "name_en": "The Prohibition",
+        "phonetic": "At-Tahrim",
+        "place": "Medinois",
+        "nbAya": 12
+    },
+    {
+        "name": "سورة الملك",
+        "name_fr": "La royauté",
+        "name_en": "The Sovereignty",
+        "phonetic": "Al-Mulk",
+        "place": "Mecquoise",
+        "nbAya": 30
+    },
+    {
+        "name": "سورة القلم",
+        "name_fr": "La plume",
+        "name_en": "The Pen",
+        "phonetic": "Al-Qalam",
+        "place": "Mecquoise",
+        "nbAya": 52
+    },
+    {
+        "name": "سورة الحاقة",
+        "name_fr": "Celle qui montre la vérité",
+        "name_en": "The Reality",
+        "phonetic": "Al-Haaqqa",
+        "place": "Mecquoise",
+        "nbAya": 52
+    },
+    {
+        "name": "سورة المعارج",
+        "name_fr": "Les voies d'ascension",
+        "name_en": "The Ascending Stairways",
+        "phonetic": "Al-Ma'aarij",
+        "place": "Mecquoise",
+        "nbAya": 44
+    },
+    {
+        "name": "سورة نوح",
+        "name_fr": "Noé",
+        "name_en": "Noah",
+        "phonetic": "Nooh",
+        "place": "Mecquoise",
+        "nbAya": 28
+    },
+    {
+        "name": "سورة الجن",
+        "name_fr": "Les djinns",
+        "name_en": "The Jinn",
+        "phonetic": "Al-Jinn",
+        "place": "Mecquoise",
+        "nbAya": 28
+    },
+    {
+        "name": "سورة المزمل",
+        "name_fr": "L'enveloppé",
+        "name_en": "The Enshrouded One",
+        "phonetic": "Al-Muzzammil",
+        "place": "Mecquoise",
+        "nbAya": 20
+    },
+    {
+        "name": "سورة المدثر",
+        "name_fr": "Le revêtu d'un manteau",
+        "name_en": "The Cloaked One",
+        "phonetic": "Al-Muddaththir",
+        "place": "Mecquoise",
+        "nbAya": 56
+    },
+    {
+        "name": "سورة القيامة",
+        "name_fr": "La résurrection",
+        "name_en": "The Resurrection",
+        "phonetic": "Al-Qiyaama",
+        "place": "Mecquoise",
+        "nbAya": 40
+    },
+    {
+        "name": "سورة الانسان",
+        "name_fr": "L'homme",
+        "name_en": "Man",
+        "phonetic": "Al-Insaan",
+        "place": "Medinois",
+        "nbAya": 31
+    },
+    {
+        "name": "سورة المرسلات",
+        "name_fr": "Les envoyés",
+        "name_en": "The Emissaries",
+        "phonetic": "Al-Mursalaat",
+        "place": "Mecquoise",
+        "nbAya": 50
+    },
+    {
+        "name": "سورة النبإ",
+        "name_fr": "La nouvelle",
+        "name_en": "The Announcement",
+        "phonetic": "An-Naba",
+        "place": "Mecquoise",
+        "nbAya": 40
+    },
+    {
+        "name": "سورة النازعات",
+        "name_fr": "Les anges qui arrachent les âmes",
+        "name_en": "Those who drag forth",
+        "phonetic": "An-Naazi'aat",
+        "place": "Mecquoise",
+        "nbAya": 46
+    },
+    {
+        "name": "سورة عبس",
+        "name_fr": "Il s'est renfrogné",
+        "name_en": "He frowned",
+        "phonetic": "Abasa",
+        "place": "Mecquoise",
+        "nbAya": 42
+    },
+    {
+        "name": "سورة التكوير",
+        "name_fr": "L'obscurcissement",
+        "name_en": "The Overthrowing",
+        "phonetic": "At-Takwir",
+        "place": "Mecquoise",
+        "nbAya": 29
+    },
+    {
+        "name": "سورة الإنفطار",
+        "name_fr": "La rupture",
+        "name_en": "The Cleaving",
+        "phonetic": "Al-Infitaar",
+        "place": "Mecquoise",
+        "nbAya": 19
+    },
+    {
+        "name": "سورة المطففين",
+        "name_fr": "Les fraudeurs",
+        "name_en": "Defrauding",
+        "phonetic": "Al-Mutaffifin",
+        "place": "Mecquoise",
+        "nbAya": 36
+    },
+    {
+        "name": "سورة الإنشقاق",
+        "name_fr": "La déchirure",
+        "name_en": "The Splitting Open",
+        "phonetic": "Al-Inshiqaaq",
+        "place": "Mecquoise",
+        "nbAya": 25
+    },
+    {
+        "name": "سورة البروج",
+        "name_fr": "Les constellations",
+        "name_en": "The Constellations",
+        "phonetic": "Al-Burooj",
+        "place": "Mecquoise",
+        "nbAya": 22
+    },
+    {
+        "name": "سورة الطارق",
+        "name_fr": "L'astre nocturne",
+        "name_en": "The Morning Star",
+        "phonetic": "At-Taariq",
+        "place": "Mecquoise",
+        "nbAya": 17
+    },
+    {
+        "name": "سورة الأعلى",
+        "name_fr": "Le Très-Haut",
+        "name_en": "The Most High",
+        "phonetic": "Al-A'laa",
+        "place": "Mecquoise",
+        "nbAya": 19
+    },
+    {
+        "name": "سورة الغاشية",
+        "name_fr": "L'enveloppante",
+        "name_en": "The Overwhelming",
+        "phonetic": "Al-Ghaashiya",
+        "place": "Mecquoise",
+        "nbAya": 26
+    },
+    {
+        "name": "سورة الفجر",
+        "name_fr": "L'aube",
+        "name_en": "The Dawn",
+        "phonetic": "Al-Fajr",
+        "place": "Mecquoise",
+        "nbAya": 30
+    },
+    {
+        "name": "سورة البلد",
+        "name_fr": "La cité",
+        "name_en": "The City",
+        "phonetic": "Al-Balad",
+        "place": "Mecquoise",
+        "nbAya": 20
+    },
+    {
+        "name": "سورة الشمس",
+        "name_fr": "Le soleil",
+        "name_en": "The Sun",
+        "phonetic": "Ash-Shams",
+        "place": "Mecquoise",
+        "nbAya": 15
+    },
+    {
+        "name": "سورة الليل",
+        "name_fr": "La nuit",
+        "name_en": "The Night",
+        "phonetic": "Al-Lail",
+        "place": "Mecquoise",
+        "nbAya": 21
+    },
+    {
+        "name": "سورة الضحى",
+        "name_fr": "Le jour montant",
+        "name_en": "The Morning Hours",
+        "phonetic": "Ad-Dhuhaa",
+        "place": "Mecquoise",
+        "nbAya": 11
+    },
+    {
+        "name": "سورة الشرح",
+        "name_fr": "L'ouverture",
+        "name_en": "The Consolation",
+        "phonetic": "Ash-Sharh",
+        "place": "Mecquoise",
+        "nbAya": 8
+    },
+    {
+        "name": "سورة التين",
+        "name_fr": "Le figuier",
+        "name_en": "The Fig",
+        "phonetic": "At-Tin",
+        "place": "Mecquoise",
+        "nbAya": 8
+    },
+    {
+        "name": "سورة العلق",
+        "name_fr": "L'adhérence",
+        "name_en": "The Clot",
+        "phonetic": "Al-Alaq",
+        "place": "Mecquoise",
+        "nbAya": 19
+    },
+    {
+        "name": "سورة القدر",
+        "name_fr": "La Destinée",
+        "name_en": "The Power, Fate",
+        "phonetic": "Al-Qadr",
+        "place": "Mecquoise",
+        "nbAya": 5
+    },
+    {
+        "name": "سورة البينة",
+        "name_fr": "La preuve",
+        "name_en": "The Evidence",
+        "phonetic": "Al-Bayyina",
+        "place": "Medinois",
+        "nbAya": 8
+    },
+    {
+        "name": "سورة الزلزلة",
+        "name_fr": "La secousse",
+        "name_en": "The Earthquake",
+        "phonetic": "Az-Zalzala",
+        "place": "Medinois",
+        "nbAya": 8
+    },
+    {
+        "name": "سورة العاديات",
+        "name_fr": "Les coursiers",
+        "name_en": "The Chargers",
+        "phonetic": "Al-Aadiyaat",
+        "place": "Mecquoise",
+        "nbAya": 11
+    },
+    {
+        "name": "سورة القارعة",
+        "name_fr": "Le fracas",
+        "name_en": "The Calamity",
+        "phonetic": "Al-Qaari'a",
+        "place": "Mecquoise",
+        "nbAya": 11
+    },
+    {
+        "name": "سورة التكاثر",
+        "name_fr": "La course aux richesses",
+        "name_en": "Competition",
+        "phonetic": "At-Takaathur",
+        "place": "Mecquoise",
+        "nbAya": 8
+    },
+    {
+        "name": "سورة العصر",
+        "name_fr": "Le temps",
+        "name_en": "The Declining Day, Epoch",
+        "phonetic": "Al-Asr",
+        "place": "Mecquoise",
+        "nbAya": 3
+    },
+    {
+        "name": "سورة الهمزة",
+        "name_fr": "Les calomniateurs",
+        "name_en": "The Traducer",
+        "phonetic": "Al-Humaza",
+        "place": "Mecquoise",
+        "nbAya": 9
+    },
+    {
+        "name": "سورة الفيل",
+        "name_fr": "L'éléphant",
+        "name_en": "The Elephant",
+        "phonetic": "Al-Fil",
+        "place": "Mecquoise",
+        "nbAya": 5
+    },
+    {
+        "name": "سورة قريش",
+        "name_fr": "Qoraïsh",
+        "name_en": "Quraysh",
+        "phonetic": "Quraish",
+        "place": "Mecquoise",
+        "nbAya": 4
+    },
+    {
+        "name": "سورة الماعون",
+        "name_fr": "L'ustensile",
+        "name_en": "Almsgiving",
+        "phonetic": "Al-Maa'un",
+        "place": "Mecquoise",
+        "nbAya": 7
+    },
+    {
+        "name": "سورة الكوثر",
+        "name_fr": "L'abondance",
+        "name_en": "Abundance",
+        "phonetic": "Al-Kawthar",
+        "place": "Mecquoise",
+        "nbAya": 3
+    },
+    {
+        "name": "سورة الكافرون",
+        "name_fr": "Les infidèles",
+        "name_en": "The Disbelievers",
+        "phonetic": "Al-Kaafiroon",
+        "place": "Mecquoise",
+        "nbAya": 6
+    },
+    {
+        "name": "سورة النصر",
+        "name_fr": "Les secours",
+        "name_en": "Divine Support",
+        "phonetic": "An-Nasr",
+        "place": "Medinois",
+        "nbAya": 3
+    },
+    {
+        "name": "سورة المسد",
+        "name_fr": "Les fibres",
+        "name_en": "The Palm Fibre",
+        "phonetic": "Al-Masad",
+        "place": "Mecquoise",
+        "nbAya": 5
+    },
+    {
+        "name": "سورة الإخلاص",
+        "name_fr": "Le monothéisme pur",
+        "name_en": "Sincerity",
+        "phonetic": "Al-Ikhlaas",
+        "place": "Mecquoise",
+        "nbAya": 4
+    },
+    {
+        "name": "سورة الفلق",
+        "name_fr": "L'aube naissante",
+        "name_en": "The Dawn",
+        "phonetic": "Al-Falaq",
+        "place": "Mecquoise",
+        "nbAya": 5
+    },
+    {
+        "name": "سورة الناس",
+        "name_fr": "Les hommes",
+        "name_en": "Mankind",
+        "phonetic": "An-Naas",
+        "place": "Mecquoise",
+        "nbAya": 6
+    }
+]
